@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Realtime Spotify Application ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -37,3 +38,14 @@ CLERK_SECRET_KEY=...
 ```bash
 VITE_CLERK_PUBLISHABLE_KEY=...
 ```
+=======
+Key Features:
+<br>
+<li>🎸 Listen to music, play next and previous songs<br>
+<li>🎧 Admin dashboard to create albums and songs<br>
+<li>💬 Real-time Chat App integrated into Spotify<br>
+<li>👨🏼‍💼 Online/Offline status<br>
+<li>👀 See what other users are listening to in real-time<br>
+<li>📊 Aggregate data for the analytics page<br>
+🚀 And a lot more...
+>>>>>>> 338e461bac392f1b03f2c832ac70b6a6bc3b888f
