@@ -46,4 +46,3 @@ Key Features:
 <li>👀 See what other users are listening to in real-time<br>
 <li>📊 Aggregate data for the analytics page<br>
 🚀 And a lot more...
->>>>>>> 338e461bac392f1b03f2c832ac70b6a6bc3b888f
