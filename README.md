@@ -1,7 +1,6 @@
 
 <h1 align="center">Realtime Spotify Application ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
 About This Application:
 
@@ -14,28 +13,7 @@ About This Application:
 -   📊 Aggregate data for the analytics page
 -   🚀 And a lot more...
 
-### Setup .env file in _backend_ folder
 
-```bash
-PORT=...
-MONGODB_URI=...
-ADMIN_EMAIL=...
-NODE_ENV=...
-
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
-CLOUDINARY_CLOUD_NAME=...
-
-
-CLERK_PUBLISHABLE_KEY=...
-CLERK_SECRET_KEY=...
-```
-
-### Setup .env file in _frontend_ folder
-
-```bash
-VITE_CLERK_PUBLISHABLE_KEY=...
-```
 =======
 Key Features:
 <br>
